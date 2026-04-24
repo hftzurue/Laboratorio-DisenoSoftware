@@ -1,6 +1,6 @@
 package tec.laboratorio.prototype;
 
-public class Main {
+public class MainPrototype {
     public static void main(String[] args) {
         EnemigoJefe enemigoJefe = new EnemigoJefe("Isshin Ashina", "Blanco", -30, 100 );
 
